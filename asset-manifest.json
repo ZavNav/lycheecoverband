@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/lycheecoverband/static/css/main.b939b422.css",
+    "main.js": "/lycheecoverband/static/js/main.973eea36.js",
+    "static/media/girlsLogo.jpeg": "/lycheecoverband/static/media/girlsLogo.287bdac488677a4eb0c8.jpeg",
+    "static/media/5.jpeg": "/lycheecoverband/static/media/5.e4665901301d510eaaf3.jpeg",
+    "static/media/7.jpeg": "/lycheecoverband/static/media/7.4d29a81fc3fdd50c96fc.jpeg",
+    "static/media/3.jpeg": "/lycheecoverband/static/media/3.56f30dcda0e6aaf133bc.jpeg",
+    "static/media/mainLogo.jpg": "/lycheecoverband/static/media/mainLogo.a029b6beb38d3a2b7d4a.jpg",
+    "static/media/6.jpeg": "/lycheecoverband/static/media/6.95770d7d194d7fa10c46.jpeg",
+    "static/media/Yulya.jpeg": "/lycheecoverband/static/media/Yulya.b3dbfa670b8153a28bc7.jpeg",
+    "static/media/1.jpeg": "/lycheecoverband/static/media/1.41814967087b65429575.jpeg",
+    "static/media/Alina.jpeg": "/lycheecoverband/static/media/Alina.e6e5f3d1c166c6770418.jpeg",
+    "static/media/2.jpeg": "/lycheecoverband/static/media/2.a550ac625640fdd96cdd.jpeg",
+    "static/media/4.jpeg": "/lycheecoverband/static/media/4.bbdd2582a392dd1584c4.jpeg",
+    "static/media/Natasha.jpeg": "/lycheecoverband/static/media/Natasha.62223cdbd699e157bba0.jpeg",
+    "static/media/Meline.jpeg": "/lycheecoverband/static/media/Meline.265c3b348338fd0a4759.jpeg",
+    "static/media/instagram.png": "/lycheecoverband/static/media/instagram.edb90ecc706a7a25542b.png",
+    "static/media/vkontakte.png": "/lycheecoverband/static/media/vkontakte.3eea0d4834a65e4dddb5.png",
+    "index.html": "/lycheecoverband/index.html",
+    "main.b939b422.css.map": "/lycheecoverband/static/css/main.b939b422.css.map",
+    "main.973eea36.js.map": "/lycheecoverband/static/js/main.973eea36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b939b422.css",
+    "static/js/main.973eea36.js"
+  ]
+}
