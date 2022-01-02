@@ -1,0 +1,41 @@
+.socialPart{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20px 0;
+    border-top: 3px solid rgba(0, 0, 0, 0.29);
+}
+.socialBlock{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 30px;
+    padding: 10px;
+    border: rgba(0, 0, 0, 0) solid 2px;
+    border-radius: 2px;
+    transition: border .3s ease;
+    cursor: pointer;
+}
+.socialLink{
+    text-decoration: none;
+}
+.socialBlock:last-child{
+    margin-right: 0;
+}
+/*.socialBlock:hover{
+    border: black solid 2px;
+    transition: border .3s ease;
+}*/
+.socialLogo{
+    width: 50px;
+}
+
+
+@media (max-width: 481px) {
+    .socialLogo{
+        width: 50px;
+        margin-right: 5px;
+    }.socialBlock{
+         font-size: 12px;
+     }
+}

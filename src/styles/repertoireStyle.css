@@ -1,0 +1,49 @@
+.repertoire{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.songs{
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px black solid;
+    width: 960px;
+}
+.song{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-image: url("../images/girlsLogo.jpeg");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.2s;
+}
+.song:hover{
+    transform: scale(1.05);
+}
+
+@media (max-width: 992px) {
+    .songs{
+        padding: 0;
+        width: 720px;
+    }
+}
+@media (max-width: 481px) {
+    .songs{
+        padding: 0;
+        width: 240px;
+    }
+    .song{
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+        background-image: url("../images/girlsLogo.jpeg");
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: 0.2s;
+    }
+}
